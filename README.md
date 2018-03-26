@@ -15,3 +15,7 @@ cd react-basics-todos
 yarn install
 yarn start
 ```
+
+## Screenshot
+
+![Screenshot](screenshot.png)

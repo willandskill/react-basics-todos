@@ -1,8 +1,11 @@
 # React Basics - TODOs
 
-A basic TODO app.
+Playing around with a basic TODO app.
 
---
+## Libraries / Frameworks
+
+* React.js (Create React App)
+* Bootstrap 4
 
 ## Getting started...
 
